@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ahmedinB
--I'm interested in AI and data science. 
--I’m currently learning flutter, servlet and react native.
+-I'm interested in machine learning and data science. 
+-I’m currently learning node js and react native.
 - 📫 How to reach me @ahmedin_b on instagram
 
 <!---
