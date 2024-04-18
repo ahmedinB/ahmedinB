@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ahmedinB
 -I'm interested in machine learning and data science. 
--I’m currently learning node js and react native.
+-I’m currently learning React js.
 - 📫 How to reach me ahmaddiinbeyan@gmail.com
 
 <!---
