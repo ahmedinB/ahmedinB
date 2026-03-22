@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ahmedinB
--I'm interested in machine learning and its medical applications. 
+-I'm interested in machine learning and its medical/economics applications. 
 -I’m currently learning causal inference.
 - 📫 ahmaddiinbeyan@gmail.com
 
