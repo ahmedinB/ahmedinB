@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ahmedinB
--I'm interested in machine learning and data science. 
--I’m currently learning React js.
+-I'm interested in machine learning and its medical applications. 
+-I’m currently learning causal inference.
 - 📫 How to reach me ahmaddiinbeyan@gmail.com
 
 <!---
